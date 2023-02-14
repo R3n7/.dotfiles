@@ -1,0 +1,2 @@
+require('ren')
+print("hello")
